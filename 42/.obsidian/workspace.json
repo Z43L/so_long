@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "c185cbb1e02fb11a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5d3e612c9b75a9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac841e1b21e239a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "so_long_notas/funciones de archivos/map.c.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ccc305ac7dacaffb",
+    "type": "split",
+    "children": [
+      {
+        "id": "279604ffd43d4a7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5b96c1c534442f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60e7061969e91598",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a24a71a783cd09f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f0abb45c7754bde2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5e27ab8db619be5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e96d8b1cc86e078",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "so_long_notas/funciones de archivos/map.c.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "edb4e6fac0aedf69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "so_long_notas/funciones de archivos/map.c.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fbff163eadacd690",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e6745bd654a3d6c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "so_long_notas/funciones de archivos/map.c.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "a5b96c1c534442f6",
+  "lastOpenFiles": [
+    "so_long_notas/planteamiento.md",
+    "so_long_notas/funciones de archivos/map.c.md",
+    "so_long_notas/funciones de archivos/game.c.md",
+    "so_long_notas/mlx-linux-libreria",
+    "so_long_notas/funciones de archivos",
+    "so_long_notas/es.subject.pdf",
+    "Welcome.md",
+    "so_long_notas"
+  ]
+}
