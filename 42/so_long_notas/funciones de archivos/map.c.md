@@ -9,6 +9,7 @@ typedef struct t_map{
 	t_player player;
 	t_ghost ghost;
 	t_comestibles comestibles;
+	Int rows;
 }
 
 ```
@@ -23,4 +24,33 @@ typedef struct t_map{
 ```
 int ft_compx(int fd)
 ```
+
+# ft_county(fd)
+## funcionamiento
+- la idea es crea un bucle while mientra gnl != NULL y++
+- esta función aunque parezca insignificante la usaremos más a delante para hacer el malloc al mapa completo
+```
+mapa = y *(malloc(sizeof (char) * gnl ))
+```
+## variables
+- fd
+- line
+- y
+## declaración función
+```
+int ft_county(int fd)
+```
+
+# ft_freemap
+ funcionamiento
+Esta función deberá de encargarse de hacer un free al mapa siempre y cuando sea necesario
+## variables
+- Mapa
+- rows
+# declararon función
+```
+void free2DArray(int** map, int rows)
+```
+
+
 
